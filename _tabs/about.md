@@ -1,8 +1,13 @@
 ---
-title: About
+title: 关于
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+{: .prompt-tip } 本站地址：www.cehui.ren
+
+
+### 联系方式
+- 电邮：qd.xyz@139.com
+- 微信：qd_xyz
+- 抖音：QinDong
