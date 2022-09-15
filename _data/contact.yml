@@ -1,6 +1,10 @@
 #  The contact options.
 
 -
+  type: stack-overflow
+  icon: 'fab fa-github'
+  url:  'https://github.com/qin-dong'                  # Fill with your stackoverflow homepage
+-
   type: twitter
   icon: 'fab fa-twitter'
 -
@@ -10,10 +14,6 @@
 -
   type: rss
   icon: 'fas fa-rss'
--
-  type: stack-overflow
-  icon: 'fab fa-github'
-  url:  'https://github.com/qin-dong'                  # Fill with your stackoverflow homepage
 
 #-
 #  type: github
