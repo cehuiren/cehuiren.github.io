@@ -1,8 +1,9 @@
 #  The contact options.
 
-#-
-#  type: github
-#  icon: 'fab fa-github'
+-
+  type: stack-overflow
+  icon: 'fab fa-stack-overflow'
+  url:  'https://github.com/qin-dong'                  # Fill with your stackoverflow homepage
 -
   type: twitter
   icon: 'fab fa-twitter'
@@ -15,6 +16,10 @@
   icon: 'fas fa-rss'
   noblank: true
 
+
+#-
+#  type: github
+#  icon: 'fab fa-github'
 # Uncomment and complete the url below to enable more contact options
 # -
 #   type: mastodon
@@ -24,7 +29,3 @@
 #   type: linkedin
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Linkedin homepage
- -
-   type: stack-overflow
-   icon: 'fab fa-stack-overflow'
-   url:  'https://github.com/qin-dong'                  # Fill with your stackoverflow homepage
