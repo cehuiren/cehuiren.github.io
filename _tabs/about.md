@@ -6,14 +6,16 @@ order: 4
 
 本Blog在[Github Pages](https://pages.github.com/)上搭建，为老夫基于VS Code+Git建立的笔记工具的在线同步版，工作中在本地电脑上随时记录操作过程定期同步到github库即完成更新。也可在移动端浏览器中浏览。随着年龄的增长，记忆力在衰退，笔记乃无赖之举。
 
-推荐使用微软的Edge浏览器浏览本Blog，针对此浏览器优化样式。在某些浏览器上布局达不到理想状态，比如蛋蛋浏览器。Edge可在Windows自带的应用商店内免费安装，是目前最好的浏览器。
+- 推荐使用微软的**Edge**浏览器浏览本Blog，针对此浏览器优化样式。在某些浏览器上布局达不到理想状态，比如蛋蛋浏览器。Edge可在Windows自带的应用商店内免费安装，是目前最好的浏览器。
+- 页面左下角有**淡、黑主题**色切换按钮，默认随系统主题。
+- 在部分浏览器地址栏右侧有**网页应用**安装提示，可将本Blog以网页应用安装到桌面，方便在清爽的界面更快捷的进行访问。
 
 ### 现状
 一名坚定的测量工作者。高工，测绘师。
 
 爱好搞点小程序，水平仅限于AutoLisp、VB和VBA（AUtoCAD、Excel、MicroStation）。
 
-沉迷MicroStation、OpenRoads Designer、LumenRT等三维及实景建模。曾钻研Civil 3D多年，现已基本弃用。
+沉迷MicroStation、OpenRoads Designer、LumenRT等三维及实景建模。也曾使用Civil 3D多年。
 
 ### 地址
 - [www.cehui.ren](https://www.cehui.ren)
