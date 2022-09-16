@@ -2,7 +2,7 @@
 layout: post
 title:  "AutoLISP笔记-常用函数代码片断"
 date: 2006-09-03
-categories: AutoLISP
+categories: 编程开发 通用源码 AutoLISP
 tags: AutoLISP 字符串
 author: QinDong
 ---

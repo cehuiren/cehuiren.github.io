@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Git常用指令"
-categories: 系统平台
+categories: 编程开发 git
 tags: GitHub
 author: QinDong
 ---

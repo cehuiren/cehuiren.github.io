@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AutoCAD Civil 3D-点-原始数据处理"
-categories: Civil3D
+categories: Civil3D 点
 tags: Civil3D 点
 author: QinDong
 ---

@@ -2,8 +2,8 @@
 layout: post
 title:  "Visual Studio Code之Markdown编辑器增强"
 date: 2006-01-02
-categories: 系统平台
-tags: IDE Markdown 扩展 插件
+categories: 编程开发 IDE
+tags: IDE 扩展 插件
 author: 测量老覃
 excerpt: Visual Studio Code的Markdown All in one编辑器扩展的安装及辅助插件paste image设置
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Visual Studio Code blog platform"
 date: 2006-01-01
-categories: 系统平台
+categories: 编程开发 git
 tags: IDE
 excerpt: 在Visual Studio Code上搭建github博客管理平台
 author: QinDong

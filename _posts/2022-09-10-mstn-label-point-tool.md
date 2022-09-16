@@ -2,7 +2,7 @@
 layout: post
 title:  "MicroStation坐标标注（Label Coordinate）工具简介"
 date: 2022-09-10
-categories: MicroStation
+categories: MicroStation 基础
 tags: MicroStation 坐标 AccuDraw key-in 标注
 excerpt: MicroStation坐标标注工具及只标注高程的方法。
 author: 测量老覃

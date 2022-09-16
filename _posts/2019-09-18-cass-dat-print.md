@@ -2,7 +2,7 @@
 layout: post
 title:  "WPS表格快速批量打印测量成果表"
 date: 2019-09-18
-categories: 测量测绘
+categories: 编程开发 VBA-Excel
 tags: Excel WPS CASS VBA
 excerpt: Excel VBA程序按指定格式打印外业测量CASS格式的成果数据文件小程序。
 author: QinDong
@@ -13,9 +13,6 @@ author: QinDong
 ### 程序要求
 
 外业测量结束后成果数据从仪器下载后，需要立即打印成纸质版各方签字后存档。每次测量生成的数据或多或少，而完全靠人工排版不仅工作量巨大单调，且时间不允许。因此利用Excel或WPS宏进行批处理就显得非常必要。两河口水电站大坝标测量成果利用VBA宏完成测量成果的打印，效果较好。生成的表格如下图：
-
-
-
 
 <img src="/img/2019/1568815966306.png" alt="1568815966306" style="zoom:80%;" />
 

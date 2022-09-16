@@ -2,7 +2,7 @@
 layout: post
 title:  "AutoCAD Civil 3D公路工程建模步骤"
 date: 2020-05-18
-categories: MicroStation
+categories: Civil3D 廊道
 tags: Civil3D 道路 廊道 建模
 excerpt: 这是以前在一个县级公路施工时建模过程的笔记，简短介绍了创建公路（廊道）模型的步骤。
 author: 测量老覃

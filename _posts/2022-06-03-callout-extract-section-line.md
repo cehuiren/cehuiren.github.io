@@ -2,7 +2,7 @@
 layout: post
 title:  "MicroStation Plan Section Callout剖断面并提取断面线"
 date: 2022-06-03
-categories: MicroStation
+categories: MicroStation 断面剖面
 tags: MicroStation 剖面 断面
 excerpt: MicroStation可使用Plan/Section Callout工具剖切横断面，但生成的图纸对象是与原模型动态关联的，不能直接作为断面线使用，为了进一步处理模断面用于面积、方量计算，需要将剖切面的断面线对象提取出来，本文详细说明了提取断面线的过程。
 author: 测量老覃

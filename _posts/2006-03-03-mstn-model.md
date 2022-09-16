@@ -2,7 +2,7 @@
 layout: post
 title:  "MicroStation基础之模型（Model）"
 date: 2006-03-03
-categories: MicroStation
+categories: MicroStation 基础
 tags: MicroStation 模型
 excerpt: MicroStation中的模型类型等基本知识。此处的模型是类似于AutoCAD中的绘图空间和图纸空间概念，不是指图形中的三维元素对象。
 author: QinDong

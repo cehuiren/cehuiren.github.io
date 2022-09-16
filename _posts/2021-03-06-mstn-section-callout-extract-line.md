@@ -2,7 +2,7 @@
 layout: post
 title:  "MicroStation Section Callout剖切横断面图"
 date: 2021-03-06
-categories: MicroStation
+categories: MicroStation 断面剖面
 tags: MicroStation Callout 断面 剖面
 excerpt: 使用Section Callout剖切三维模型横断面并生成平面的横断面线，操作步骤较烦琐，简便操作见后续类似文章。
 author: 测量老覃

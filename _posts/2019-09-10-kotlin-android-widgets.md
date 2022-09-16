@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Kotlin Android开发常用控件用法"
-categories: 编程基础
-tags: Kotlin Android 控件 TextView Button
+categories: 编程开发 kotlin
+tags: Kotlin Android 控件
 author: QinDong
 ---
 * content

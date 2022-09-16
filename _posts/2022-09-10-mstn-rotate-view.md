@@ -2,7 +2,7 @@
 layout: post
 title:  "MicroStation中如何通过键入命令旋转视图"
 date: 2022-09-10
-categories: MicroStation
+categories: MicroStation 基础
 tags: MicroStation 视图 key-in
 excerpt: MicroStation中输入键入命令旋转视图的方法和命令。
 author: 测量老覃

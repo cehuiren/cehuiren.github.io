@@ -2,8 +2,8 @@
 layout: post
 title:  "Kotlin入门之声明与操作数组"
 date: 2019-09-11
-categories: 编程基础
-tags: Kotlin 数组
+categories: 编程开发 kotlin
+tags: Kotlin
 excerpt: Kotlin中数组声明和定义
 author: QinDong
 ---

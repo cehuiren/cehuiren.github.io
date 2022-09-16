@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "利用VBA给Excel或WPS表格添加自定义函数（如：方位角函数）"
-categories: VBA-Excel
+categories: 编程开发 VBA-Excel
 tags: Excel VBA WPS 方位角
 author: QinDong
 ---

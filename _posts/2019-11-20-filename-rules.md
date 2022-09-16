@@ -2,7 +2,7 @@
 layout: post
 title:  "测量队数据文件命名规则"
 date:   2019-11-20 15:14:54
-categories: 测量测绘
+categories: 测量测绘 规范
 tags: 规范
 author: QinDong
 excerpt: 为避免文件命名的随意性，根据日常工作中的经验在文件名中需要包含的一些必要信息制定的文件命名规则。

@@ -2,7 +2,7 @@
 layout: post
 title:  "ORD 3D线段放坡到地形模型创建坡脚线"
 date: 2022-09-13
-categories: OpenRoads
+categories: OpenRoads 地形模型
 tags: OpenRoads 地形模型 放坡 
 excerpt: OpenRoads渣料平衡中填筑平台外口按指定坡比放坡到原始地形创建坡面与原始地形模型的交线用于生成填筑平台设计地形模型的创建方法。
 author: 测量老覃

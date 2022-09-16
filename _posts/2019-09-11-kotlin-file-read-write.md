@@ -2,7 +2,7 @@
 layout: post
 title:  "Kotlin基础之文件读、写"
 date: 2019-09-11
-categories: 编程基础
+categories: 编程开发 kotlin
 tags: Kotlin 文件
 excerpt: Kotlin的IO操作都在kotlin.io包下。Kotlin的原则就是Java有的就直接利用，没有的才自己想办法写。因此Kotlin的IO操作主要是依靠扩展方法，在原有的Java类上添加功能实现的。这一点倒是和Groovy有点像。
 author: QinDong

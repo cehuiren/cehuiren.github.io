@@ -2,8 +2,8 @@
 layout: post
 title:  "对这个 jekyll 博客主题的改版和重构"
 date:   2016-03-12 11:40:18 +0800
-categories: 系统平台
-tags: blog HTML
+categories: 编程开发 web
+tags: HTML
 author: Haoyang Gao
 ---
 

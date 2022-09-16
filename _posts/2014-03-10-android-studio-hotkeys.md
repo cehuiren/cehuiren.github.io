@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Android Studio快捷键整理分享"
-categories: 系统平台
+categories: 编程开发 IDE
 tags: Android 快捷键
 author: QinDong
 ---

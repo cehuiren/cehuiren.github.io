@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Excel或WPS中利用VBA编程进行地形点抽稀（过滤）"
-categories: VBA-Excel
+categories: 编程开发 VBA-Excel
 tags: Excel WPS VBA 地形
 author: QinDong
 ---

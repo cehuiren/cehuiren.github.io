@@ -2,8 +2,8 @@
 layout: post
 title:  "Jekyll 搭建静态博客"
 date:   2015-02-12 22:14:54
-categories: 系统平台
-tags: blog HTML
+categories: 编程开发 web
+tags: HTML
 ---
 
 * content

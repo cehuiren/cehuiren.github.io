@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AutoCAD工程测量工具集"
-categories: AutoCAD
+categories: 编程开发 AutoLISP
 tags: AutoCAD AutoLISP 工程测量 面积
 author: QinDong
 ---

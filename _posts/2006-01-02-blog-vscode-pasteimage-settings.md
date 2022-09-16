@@ -2,7 +2,7 @@
 layout: post
 title:  "Visual Studio Code及扩展设置"
 date: 2022-01-02
-categories: 系统平台
+categories: 编程开发 IDE
 tags: IDE 扩展 设置
 excerpt: 微软件代码编辑器Visual Studio Code及扩展设置。
 author: QinDong

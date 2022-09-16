@@ -2,7 +2,7 @@
 layout: post
 title:  "MicroStation更正地形网格中的错误高程点"
 date: 2022-09-01
-categories: MicroStation
+categories: MicroStation 网格
 tags: Mesh MicroStation
 excerpt: 地形数据中个别点高程不正确生成地形网格模型后的飞点更正方法。通过调整小平面的移动顶点方式将网格顶点修正为正确高程值。
 author: 测量老覃

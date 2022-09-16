@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Kotlin Android TextView and EditText"
-categories: 编程基础
-tags: Kotlin Android TextView EditText
+categories: 编程开发 kotlin
+tags: Kotlin Android 控件
 author: QinDong
 ---
 * content

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Civil 3D 测量应用系列-03、展点"
-categories: Civil3D AutoCAD
+categories: Civil3D 点
 tags: Civil3D AutoCAD 地形
 author: QinDong
 ---

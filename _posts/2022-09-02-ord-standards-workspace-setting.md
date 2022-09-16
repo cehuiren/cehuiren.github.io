@@ -2,7 +2,7 @@
 layout: post
 title:  "OpenRoads Designer工作环境行业标准、公司和项目标准设置"
 date: 2022-08-30
-categories: OpenRoads
+categories: OpenRoads 基础
 tags: OpenRoads 设置 标准
 excerpt: OpenRoads Designer（简称ORD）的标准遵守继承规则，制定和设置好相关标准层级及工作空间，能更好的管理图纸文件和有关样式标准。
 author: QinDong

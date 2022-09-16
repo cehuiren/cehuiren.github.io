@@ -2,7 +2,7 @@
 layout: post
 title:  "Kotlin入门之字符串及其格式化"
 date: 2019-09-11
-categories: 编程基础
+categories: 编程开发 kotlin
 tags: Kotlin 字符串
 excerpt: kotlin语言中字符串转换函数。
 author: QinDong

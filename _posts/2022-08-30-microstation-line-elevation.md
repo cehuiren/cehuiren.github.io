@@ -2,7 +2,7 @@
 layout: post
 title:  "2D线段修改为3D线段端点分别设置高程"
 date: 2022-07-03
-categories: MicroStation
+categories: MicroStation 基础
 tags: MicroStation 3D AccuDraw
 author: QinDong
 excerpt: 将线串上某一节点移动到指定高程位置的操作方法。

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "如何Civil3D软件来装配道路"
-categories: Civil3D AutoCAD
+categories: Civil3D 部件
 tags: Civil3D AutoCAD 道路 装配 部件
 author: QinDong
 ---

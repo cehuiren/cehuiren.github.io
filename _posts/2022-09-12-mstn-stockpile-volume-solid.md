@@ -2,7 +2,7 @@
 layout: post
 title:  "MicroStation料堆实体法方量计算"
 date: 2022-09-12
-categories: MicroStation
+categories: MicroStation 实体
 tags: MicroStation 方量
 excerpt: MicroStation中直接将料场地形生成实体计算料堆体积方量。
 author: 测量老覃

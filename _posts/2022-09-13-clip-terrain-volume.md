@@ -2,7 +2,7 @@
 layout: post
 title:  "ORD剪切地形模型分区域两期计算挖填方量"
 date: 2022-09-13
-categories: OpenRoads
+categories: OpenRoads 地形模型
 tags: OpenRoads 地形模型 剪切 方量 
 excerpt: OpenRoads对大形地形模型进行剪切分区并分别计算挖填方量三维体积块的操作过程。
 author: 测量老覃
