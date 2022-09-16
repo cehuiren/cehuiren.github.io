@@ -2,7 +2,7 @@
 layout: post
 title:  "德州仪器TI nspire CAS工程测量程序"
 categories: 编程开发 计算器
-tags: TI 工程测量
+tags: 计算器 工程测量
 author: QinDong
 ---
 * content
