@@ -2,7 +2,7 @@
 layout: post
 title:  "三维对齐将剖面结构图（断面）快速放置至剖切面"
 date: 2022-09-01
-categories: MicroStation 断面剖面
+categories: MicroStation 剖切
 tags: 断面 剖面 MicroStation
 excerpt: 在进行三维建时，需将剖面结构图（横断面图）放置到3D轴线端点剖切面上（铅垂、或垂直于3D轴线平面），一般通过跨视图拷贝、粘贴的方式完成，即在顶视图上拷断面剖结构图对象，再到剖切平面进行粘贴，现通过三维对齐能更快速的进行复制定位。
 author: 测量老覃

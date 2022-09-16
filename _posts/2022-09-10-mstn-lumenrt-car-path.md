@@ -2,7 +2,7 @@
 layout: post
 title:  "MicroStation绘制路径放置LumenRT车辆"
 date: 2022-09-10
-categories: MicroStation LumenRT
+categories: MicroStation 渲染
 tags: MicroStation LumenRT 车辆 路径
 excerpt: MicroStation中绘制路径并加载LumenRT中的车辆单元。
 author: 测量老覃

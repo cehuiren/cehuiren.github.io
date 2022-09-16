@@ -2,7 +2,7 @@
 layout: post
 title:  "MicroStation快速水平剖切"
 date: 2022-09-05
-categories: MicroStation 断面剖面
+categories: MicroStation 剖切
 tags: MicroStation 剖面 断面 key-in
 excerpt: MicroStation创建水平剖面生成剖面线的方法。
 author: 测量老覃
