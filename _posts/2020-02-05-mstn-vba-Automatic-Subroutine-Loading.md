@@ -10,7 +10,7 @@ author: 中国优先社区
 * content
 {:toc}
 
-he naming of a subroutine generally does not matter. One exception, however, is the name OnProjectLoad. If a subroutine gets this name, it is automatically started as soon as it is loaded.
+The naming of a subroutine generally does not matter. One exception, however, is the name OnProjectLoad. If a subroutine gets this name, it is automatically started as soon as it is loaded.
 This makes it much easier to use when you start MicroStation to load a VBA project because not only does it load, it runs.
 Here  is a small example:
 
