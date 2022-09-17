@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "USE KEY-IN COMMANDS WHEN LEARNING VBA"
+title:  "Use Key-in Commands When Learning vba"
 date: 2007-03-06
 categories: 编程开发 VBA-MicroStation
 tags: MicroStation VBA key-in 代码 
@@ -31,7 +31,7 @@ Sub ChangeToByLevel1()
     CadInputQueue.SendKeyin "change linestyle" 
     CadInputQueue.SendKeyin "change weight" 
     CadInputQueue.SendKeyin "choose none"
- End Sub
+End Sub
 ```
 
 ```vb
@@ -39,10 +39,10 @@ Sub ChangeToByLevel2()
      Dim es As ElementScanCriteria
      Dim ee As ElementEnumerator
      Dim lvDefault As Level 
-    Dim lsByLevel As LineStyle 
-    Dim elemArray() As Element 
-    Dim i As Long 
-    Dim iStart As Long
+     Dim lsByLevel As LineStyle 
+     Dim elemArray() As Element 
+     Dim i As Long 
+     Dim iStart As Long
      Dim iEnd As Long
     ' 
     ' set the output level and linestyle objects
@@ -70,6 +70,6 @@ Sub ChangeToByLevel2()
          elemArray(i).LineWeight = -1 
         Set elemArray(i).LineStyle = lsByLevel 
         elemArray(i).Rewrite 
-    Next 
+     Next 
 End Sub
 ```

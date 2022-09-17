@@ -36,9 +36,9 @@ Use the following loop structure as a template for processing the entire file:
 ```vb
 Do While Not EOF(txtFileNumber)
 Line Input #txtFileNumber, txtFileLine
-‘
-‘ Do something with the text here
-‘
+'
+' Do something with the text here
+'
 Loop
 ```
 
@@ -49,9 +49,9 @@ For i = 1 to linesToSkip
 Line Input #txtFileNumber, txtFileLine
 Next
 Line Input #txtFileNumber, txtFileLine
-‘
-‘ Do something with the text here
-‘
+'
+' Do something with the text here
+'
 ```
 
 ## Writing to a text file
