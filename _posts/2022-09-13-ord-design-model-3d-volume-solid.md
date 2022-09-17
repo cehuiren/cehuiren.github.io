@@ -15,9 +15,16 @@ OpenRoads中使用MicroStation创建的设计模型网格赋于特征与地形�
 <div style="text-align:center;"><img src="/img/gif/ord-design-model-volume.gif"></div>
 
 >3D Volumes & Earthwork Overview
-Earthwork quantities are now calculated from 3D mesh elements. You no longer need to create a set of cross sections to get cut and fill volumes. Earthwork quantities are now truly 3D. The Create Cut Fill Volumes tool creates a 3D mesh element for cut and a 3D mesh element for fill. These meshes can then be used to extract earthwork quantities and reports directly from the 3D Model. 3D cut/fill meshes can be created from terrains, corridors, linear templates, civil cells or any 3D mesh element that has a civil feature definition.The software scans the DGN file for Feature Definitions that represent Existing and Design elements. For Design elements a bottom mesh is automatically
+>
+>Earthwork quantities are now calculated from 3D mesh elements. You no longer need to create a set of cross sections to get cut and fill volumes. 
+>Earthwork quantities are now truly 3D. 
+>The Create Cut Fill Volumes tool creates a 3D mesh element for cut and a 3D mesh element for fill. 
+>These meshes can then be used to extract earthwork quantities and reports directly from the 3D Model.
+>3D cut/fill meshes can be created from terrains, corridors, linear templates, civil cells or any 3D mesh element that has a civil feature definition.
+>The software scans the DGN file for Feature Definitions that represent Existing and Design elements. 
+>For Design elements a bottom mesh is automatically formulated (in memory) and is used to compare to the existing elements (typically an existing ground terrain). 
+>The result of this process is 3D cutfill mesh elements that represent cut and fill volumes.
 
->formulated (in memory) and is used to compare to the existing elements (typically an existing ground terrain). The result of this process is 3D cutfill mesh elements that represent cut and fill volumes.
 
 对于设计模型，在转换成网格并缝合成一个整体后，还需添加土木特征方可参与计算方量：
 1. 新建一ORD文件，种子为2D；
