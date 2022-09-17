@@ -19,7 +19,7 @@ A module with the subroutine OnProjectLoad might look something like this:
 
 ```vb
 Dim oOpenClose As clsOpenClose
-Under  OnProjectLoad ()
+sub  OnProjectLoad ()
         Set oOpenClose = New clsOpenClose
         MsgBox "Eventhandler geladen"
 End Sub

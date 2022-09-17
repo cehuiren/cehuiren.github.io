@@ -17,6 +17,7 @@ Dim miniX As Double
 Dim miniY As Double 
 Dim maxX As Double 
 Dim maxY As Double 
+
 Sub DelSingleBar() 
 Dim dbModel As ModelReference 
 Dim dbEle As Element 
@@ -28,7 +29,8 @@ Set dbEle = dbEe.Current
  dbEle.IsLocked = False 
 If dbEle.HasXData("(C)SurMap.com BarCreator") Then dbModel.RemoveElement dbEle 
 Loop 
-End Sub 
+End Sub
+
 Sub DelAllBar() 
 Dim dbModel As ModelReference 
 Dim dbEle As Element 
@@ -41,7 +43,8 @@ Set dbEle = dbEe.Current
 If dbEle.HasXData("(C)SurMap.com BarCreator") Then dbModel.RemoveElement dbEle 
 Loop 
 Next 
-End Sub 
+End Sub
+
 Sub CrtSingleBar() 
 Dim cmModel As ModelReference 
 Dim cmScale As String 
@@ -79,7 +82,8 @@ crtBar cmModel, miniX, miniY, maxX - miniX, maxY - miniY, Val(cmScale), cmSide, 
 'crtBar cmModel, -135, 253, 200, 200, 500, 1, False, "标尺", "宋体", 2, 2 
 'End If 
 'Next 
-End Sub 
+End Sub
+
 Sub CrtAllBar() 
 Dim cmModel As ModelReference 
 Dim cmScale As String 
@@ -114,7 +118,8 @@ crtBar cmModel, miniX, miniY, maxX - miniX, maxY - miniY, Val(cmScale), cmSide, 
 'crtBar cmModel, -135, 253, 200, 200, 500, 1, False, "标尺", "宋体", 2, 2 
 End If 
 Next 
-End Sub 
+End Sub
+
 '创建标尺参数：左、右、宽、高、比例（整数分母）、左右侧（L or R）、网格（真或否）,字体样式名,字体名,字宽(毫米),字高(毫米), 
 Sub crtBar(bModel As ModelReference, bLeft As Double, bBottom As Double, bWidth As Double, bHeight As Double, bScale As Integer, _ 
 bSide As Integer, bGrid As Boolean, bTextStyleName As String, bFontName As String, bFontWidth_mm As Single, bFontHeight_mm As Single) 
@@ -351,9 +356,10 @@ cbText.Color = 0
 cbText.Level = cbLevel 
 cbText.Rewrite 
 cbText.Redraw 
-End Sub 
+End Sub
+
 'Sub TestTextStyle() 
-'adTextStyle "覃东欧国家", "宋体", 10, 10 
+'adTextStyle "覃东", "宋体", 10, 10 
 'End Sub 
 '查找并设置文本样式格式 
 '参数:样式名、字体名、高度、宽度 
@@ -372,7 +378,8 @@ End Sub
 ''aTextStyle.Font = FindFontByName(txtFontName) 
 'End If 
 'Set adTextStyle = aTextStyle 
-'End Function 
+'End Function
+
 Function FindFontByName(fFontName As String) As Font 
 Dim fFonts As Fonts 
 Dim fFont As Font 
@@ -380,7 +387,8 @@ Set FindFontByName = Nothing
 Set fFonts = ActiveDesignFile.Fonts 
 For Each fFont In fFonts 
 If fFont.Name = fFontName Then Set FindFontByName = fFont 
-NextEnd Function 
+NextEnd Function
+
 '********************查找绘图范围(只处理直线对象)************** 
 Sub ViewArea(vaModel As ModelReference) 
 Dim m As ModelReference 
@@ -401,7 +409,8 @@ End If
 End If 
 Loop 
 'ShowMessage miniX & " " & miniY & " " & maxX & " " & maxY 
-End Sub 
+End Sub
+ 
 Sub MiniMax(Ele As LineElement) 
 Dim tEle As LineElement 
 Dim vPoints() As Point3d 
