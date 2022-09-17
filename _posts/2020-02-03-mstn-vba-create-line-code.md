@@ -12,7 +12,7 @@ author: 测量老覃
 
 This function requires 2 points to create a line, which we then may place into the drawing. A VBA code example using this function may look like this:
 
-```vba
+```vb
 Sub CreateLineTest()
 Dim oLine As LineElement
 Dim pStart As Point3d

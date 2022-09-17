@@ -14,7 +14,7 @@ he naming of a subroutine generally does not matter. One exception, however, is 
 This makes it much easier to use when you start MicroStation to load a VBA project because not only does it load, it runs.
 Here  is a small example:
 
-```vba
+```vb
 Sub  OnProjectLoad ()
     MsgBox "Hello, I was just loaded"
     ActiveWorkspace.AddConfigurationVariable "new_variable", "testvalue", True

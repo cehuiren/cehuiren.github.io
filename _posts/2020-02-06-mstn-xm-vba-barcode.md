@@ -12,7 +12,7 @@ author: 测量老覃
 
 这是本人2006年左右在重庆巴山水电站时在MicroStation XM环境下编的断面处理工具中绘横断面标尺的一段代码，在MicroStation CE环境下需要作小的修改才能正常运行。其中多数功能是相同的，可以借鉴。
 
-```vba
+```vb
 Dim miniX As Double 
 Dim miniY As Double 
 Dim maxX As Double 

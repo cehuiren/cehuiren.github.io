@@ -17,7 +17,7 @@ Therefore, this example can bee seen more as an extension. Because there is an e
 These events are indicated by a message box in this example, but this can be changed accordingly for your own use.
 A module with the subroutine OnProjectLoad might look something like this:
 
-```vba
+```vb
 Dim oOpenClose As clsOpenClose
 Under  OnProjectLoad ()
         Set oOpenClose = New clsOpenClose
@@ -28,7 +28,7 @@ End Sub
 To load this VBA routine when you start MicroStation, it must be listed under the MS_VBAAUTOLOADPROJECTS, and the clsOpenClose module must also be loaded.
 Here is a class module clsOpenClose that must be created separately in the defined class modules:
 
-```vba
+```vb
 Dim WithEvents hooks As Application
 
 Private Sub Class_Initialize()

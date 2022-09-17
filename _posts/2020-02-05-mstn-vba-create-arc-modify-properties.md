@@ -20,7 +20,7 @@ The following small code example describes how to
   - line weight
 - remove a specific element with given id from the active model.
 
-```vba
+```vb
 Option Explicit  ' always recommended to use. Makes sure all variable are declared before use
 
 Private elementID As DLong
