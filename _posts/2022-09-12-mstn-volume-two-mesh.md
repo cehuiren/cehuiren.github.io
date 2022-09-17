@@ -3,7 +3,7 @@ layout: post
 title:  "MicroStation两期地形网格创建三维挖填方体计算方量"
 date: 2022-09-12
 categories: MicroStation 网格
-tags: MicroStation 方量
+tags: MicroStation 方量 Mesh
 excerpt: MicroStation将两期地形生成地形网格按相交网格逻辑求交的方法创建挖填三维方体进行挖填方工程量的计算。
 author: 测量老覃
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Civil 3D 测量应用系列-03、展点"
-categories: Civil3D 点
-tags: Civil3D AutoCAD 地形
+categories: Civil3D 测点
+tags: Civil3D 地形 Point
 author: QinDong
 ---
 * content
@@ -33,6 +33,7 @@ author: QinDong
 ![](/img/2018/20181016-civil3d-03-points-04.jpg)
 
 选择“创建”后弹出创建点工具栏：
+
 ![](/img/2018/20181016-civil3d-03-points-05.jpg)
 
 ![](/img/2018/20181016-civil3d-03-points-06.jpg)

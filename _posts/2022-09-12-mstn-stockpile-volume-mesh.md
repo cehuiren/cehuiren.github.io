@@ -3,7 +3,7 @@ layout: post
 title:  "MicroStation料堆网格法方量计算"
 date: 2022-09-12
 categories: MicroStation 网格
-tags: MicroStation 方量
+tags: MicroStation 方量 Mesh
 excerpt: MicroStation中直接将料场地形生成网格计算料堆体积方量。
 author: 测量老覃
 ---
