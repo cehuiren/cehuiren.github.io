@@ -3,7 +3,7 @@ layout: post
 title:  "惠普HP-Prime可编程科学计算器测量程序代码-两河口心墙下游反滤料边线放样"
 date: 2015-05-20
 categories: 编程开发 计算器
-tags: 计算器 放样 可编程 HP-Prime 计算器程序
+tags: 放样 HP-Prime 计算器程序
 excerpt: 惠普HP-Prime可编程科学计算器支持纯文本格式程序代码，电脑端与计算器端传送代码简单方便。本代码是两河口水电站大坝心墙、垫层料、反滤料边线放样程序。
 author: QinDong
 ---

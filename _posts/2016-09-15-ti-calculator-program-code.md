@@ -2,7 +2,7 @@
 layout: post
 title:  "德州仪器TI nspire CAS工程测量程序"
 categories: 编程开发 计算器
-tags: 计算器 工程测量
+tags: 计算器程序 坐标系 坐标正算 坐标反算
 author: QinDong
 ---
 * content
