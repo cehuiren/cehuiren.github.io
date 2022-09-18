@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "惠普HP-Prime可编程科学计算器测量程序代码-两河口大坝心墙下游反I与砾石土分界线放样"
+title:  "惠普HP-Prime可编程科学计算器测量程序代码-心墙下游反I与砾石土分界线放样"
 date: 2015-05-23
 categories: 编程开发 计算器
 tags: 计算器 放样 可编程 HP-Prime 计算器程序
