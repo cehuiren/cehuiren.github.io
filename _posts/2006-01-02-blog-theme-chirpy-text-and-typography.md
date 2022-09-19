@@ -1,6 +1,6 @@
 ---
 title: Blog Theme Chirpy-Text and Typography
-author: <网络转载>
+author: 网络转载
 date: 2006-01-02 11:33:00
 categories: [系统软件, 网络]
 tags: [blog]
