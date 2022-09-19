@@ -136,14 +136,14 @@ _Image Caption_
 In order to prevent the page content layout from shifting when the image is loaded, we should set the width and height for each image:
 
 ```markdown
-![Desktop View](/assets/img/sample/mockup.png){: width="700" height="400" }
+![Desktop View](2022-09-19-08-52-12.png){: width="700" height="400" }
 ```
 {: .nolineno}
 
 Starting from _Chirpy v5.0.0_, `height` and `width` support abbreviations (`height` → `h`, `width` → `w`). The following example has the same effect as the above:
 
 ```markdown
-![Desktop View](/assets/img/sample/mockup.png){: w="700" h="400" }
+![Desktop View](2022-09-19-08-52-12.png){: w="700" h="400" }
 ```
 {: .nolineno}
 
@@ -159,21 +159,21 @@ By default, the image is centered, but you can specify the position by using one
   Image will be left aligned in below sample:
 
   ```markdown
-  ![Desktop View](/assets/img/sample/mockup.png){: .normal }
+  ![Desktop View](/img/res/weixin_qd.jpg){: .normal }
   ```
   {: .nolineno}
 
 - **Float to the left**
 
   ```markdown
-  ![Desktop View](/assets/img/sample/mockup.png){: .left }
+  ![Desktop View](/img/res/weixin_qd.jpg){: .left }
   ```
   {: .nolineno}
 
 - **Float to the right**
 
   ```markdown
-  ![Desktop View](/assets/img/sample/mockup.png){: .right }
+  ![Desktop View](/img/res/weixin_qd.jpg){: .right }
   ```
   {: .nolineno}
 
@@ -182,7 +182,7 @@ By default, the image is centered, but you can specify the position by using one
 The screenshots of the program window can be considered to show the shadow effect, and the shadow will be visible in the `light` mode:
 
 ```markdown
-![Desktop View](/assets/img/sample/mockup.png){: .shadow }
+![Desktop View](/img/res/weixin_qd.jpg){: .shadow }
 ```
 {: .nolineno}
 
