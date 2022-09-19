@@ -2,8 +2,8 @@
 layout: post
 title:  "hello jekyll!"
 date:   2015-02-10 15:14:54
-categories: 编程开发 web
-tags: HTML
+categories: 系统软件 网络
+tags: blog
 excerpt: 当年创建 jekyll 时默认的一篇文章，没什么意义，我也一直没删除，留个纪念吧。
 mathjax: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "GitHub 里同步一个 fork"
 date:   2015-04-12 15:14:54
-categories: 编程开发 git
+categories: 系统软件 网络
 tags: GitHub
 ---
 
