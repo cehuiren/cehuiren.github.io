@@ -4,8 +4,8 @@ title:  "AutoCAD Civil 3D道路三要素"
 date: 2022-09-18
 categories: Civil3D 廊道
 tags: 道路 廊道 平面几何 纵剖几何 横断面 装配
+author: 沙漠骆驼
 excerpt: 今天给大家讲一下在civil3d中如何创建道路模型，以及在创建道路模型时需要注意的一些事项。在civil3d中创建道路模型叫做Create Corridor，这里的Corridor泛指一切带状的对象，除了道路，也可以是渠道、隧道、防洪堤，也可以是大坝，尽量发挥你的想象吧。
-author: 网络转换
 ---
 * content
 {:toc}

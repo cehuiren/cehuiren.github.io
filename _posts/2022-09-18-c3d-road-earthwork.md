@@ -4,8 +4,8 @@ title:  "AutoCAD Civil 3D道路的挖填方量计算及条件部件"
 date: 2022-09-18
 categories: Civil3D 廊道
 tags: 道路 方量 部件 装配 挖填方
+author: 沙漠骆驼
 excerpt: 上一节中讲了道路创建的三要素：平面路线（Alignment）、纵断面（Profile）、横断面（Assembly），今天就讲一下条件部件在道路模型中的表现以及道路的挖填方计算。
-author: 网络转换
 ---
 * content
 {:toc}
