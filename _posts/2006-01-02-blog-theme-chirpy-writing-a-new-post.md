@@ -1,6 +1,6 @@
 ---
 title: Blog Theme Chirpy-Writing a New Post
-author: cotes
+author: <网络转载>
 date: 2006-01-02 14:10:00
 categories: [系统软件, 网络]
 tags: [blog]
