@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "MicroStation绘空间圆弧Helix"
-date:  2022-06-06
+date:  2022-08-31
 categories: MicroStation 基础
-tags: MicroStation 3D
+tags: MicroStation 三维
 excerpt: 平面图圆弧轴线在3D空间上是一段螺旋线，在MicroStation及AutoCAD中螺旋线的绘制有着特殊的固定步骤。
 author: QinDong
 ---

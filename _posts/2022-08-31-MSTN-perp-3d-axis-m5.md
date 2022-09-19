@@ -3,7 +3,7 @@ layout: post
 title:  "绘制垂直于3D轴线的定位线的五种方法"
 date:   2021-08-31 17:05:13
 categories: MicroStation 基础
-tags: MicroStation 3D AccuDraw ACS 断面 剖面
+tags: MicroStation 三维 AccuDraw ACS 断面 剖面
 excerpt: MicroStation三维建模将断面放置到垂直于3D空间轴线剖切面上时定位辅助线的绘制方法。
 author: 测量老覃
 ---
