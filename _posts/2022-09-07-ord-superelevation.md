@@ -2,7 +2,7 @@
 layout: post
 title:  "OpenRoads Designer道路设计建模超高横坡应用技巧"
 date: 2022-09-07
-categories: OpenRoads 超高
+categories: OpenRoads 道路廊道
 tags: OpenRoads 道路 超高
 excerpt: 在应用ORD进行公路设计建模时，很多人对如何按照国内规范的要求进行超高横坡的计算、编辑和应用存在疑问，如超高旋转轴如何定义、超高数据如何编辑、硬路肩和土路肩的横坡如何跟随行车道变化等。笔者结合自身对规范及ORD软件的理解，将简单介绍如何用ORD进行超高应用。
 author: 网络转载
