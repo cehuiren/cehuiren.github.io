@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MicroStation三维模型输出至GoogleEarth谷歌地球"
-author: "测量老覃"
+author: 测量老覃
 date: 2022-09-19
 categories: MicroStation 基础
 tags: MicroStation 三维模型 Google 坐标系
