@@ -3,7 +3,7 @@ layout: post
 title:  "MicroStation导入Civil 3D地形曲面并转换成智能曲面"
 date: 2022-09-02
 categories: MicroStation 曲面
-tags: MicroStation Civil3D Surface
+tags: MicroStation Civil3D 曲面
 excerpt: 利用Civil 3D强大的地形曲面创建和编辑功能进行大型地形处理编辑，导出为交换格式LandXML，在MicroStation内导入后转换为曲面或网格，用于三维建模时裁剪和创建封闭网格进行体积方量计算。
 author: QinDong
 ---
