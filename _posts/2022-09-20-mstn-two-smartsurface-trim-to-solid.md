@@ -2,7 +2,7 @@
 title: MicroStation将两个SmartSurface的交集构成实体
 author: 中国优先社区
 date: 2022-09-20 08:17:00 +0800
-categories: Microstation 曲面
+categories: MicroStation 曲面
 tags: 曲面 实体 MicroStation
 excerpt: 
 ---

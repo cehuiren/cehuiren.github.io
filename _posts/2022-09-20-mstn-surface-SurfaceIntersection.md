@@ -2,7 +2,7 @@
 title: MicroStation求两个曲面间的交线
 author: 中国优先社区
 date: 2022-09-20 08:01:00 +0800
-categories: Microstation 曲面
+categories: MicroStation 曲面
 tags: 曲面 交线 MicroStation
 excerpt: 
 ---
