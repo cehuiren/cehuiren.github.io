@@ -2,8 +2,8 @@
 title: 关于自动加载 AutoLISP 应用程序
 author: 网格转载
 date: 2006-09-18 13:49:10 +0800
-categories: 编程开发 AutoLisp
-tags: AutoLisp 帮助
+categories: 编程开发 AutoLISP
+tags: 帮助
 excerpt: 
 ---
 * content

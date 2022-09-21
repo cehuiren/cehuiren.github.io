@@ -2,7 +2,7 @@
 title: 南方CASS点状地物符号代码展点程序
 author: 网格转载
 date: 2010-03-07 13:49:10 +0800
-categories: 编程开发 AutoLisp
+categories: 编程开发 AutoLISP
 tags: CASS 代码
 excerpt: 
 ---
