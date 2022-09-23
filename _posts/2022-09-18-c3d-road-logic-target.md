@@ -2,7 +2,7 @@
 layout: post
 title:  "AutoCAD Civil 3D有关道路的逻辑目标"
 date: 2022-09-18
-categories: Civil3D 廊道
+categories: Civil3D 道路
 tags: 道路 模型 部件 装配 曲面
 author: 网络转载
 excerpt: 今天给大家讲一下道路中逻辑目标，这个比较有用。刚开始接触这个概念时估计有点不太好理解，需要经过多次的尝试后才会掌握它。
