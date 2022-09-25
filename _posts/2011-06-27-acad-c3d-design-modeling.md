@@ -2,7 +2,7 @@
 title: AutoCAD Civil 3D设计建模
 author: QinDong
 date: 2011-06-27 13:38:00 +0800
-categories: 'AutoCAD Civil 3D' 建模
+categories: Civil3D 建模
 tags: 设计
 excerpt: 
 ---
