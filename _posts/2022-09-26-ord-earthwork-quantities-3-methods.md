@@ -29,7 +29,7 @@ ORD-Modeling▶Corridor▶Review▶Corridor Reports，选择廊道，生成部�
 
 ![](/img/2022/2022-09-26-20-58-49.png)
 
-	• 两期地形计算方量：ORD-Modeling▶Terrain▶Analysis▶Volumes▶Analyze Volume，选择Terrain Model To Terrain Model Volume方式，按提示指定两期模型，结果放置在指定位置。
+- 两期地形计算方量：ORD-Modeling▶Terrain▶Analysis▶Volumes▶Analyze Volume，选择Terrain Model To Terrain Model Volume方式，按提示指定两期模型，结果放置在指定位置。
 
 ![](/img/2022/2022-09-26-20-59-03.png)
 
