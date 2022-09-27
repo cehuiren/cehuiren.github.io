@@ -12,7 +12,7 @@ excerpt:
 ## 指定和道路模板点相关的属性
 ![](/img/2022/2022-09-27-19-35-00.png)
 
-### Name：名称**
+### Name：名称
 显示点的名称。下拉列表包含Point Name List(点名称列表)的所有项。
 
 ### Feature Name Override：特性名重载
@@ -54,9 +54,11 @@ excerpt:
 
 ### 父点
 - Parent1：父点1
+
 指定约束的父点。
 
 - Parent2：父点2
+
 如果可用的话，显示第二个父点。仅当约束类型是水平和竖直最大值最小值，以及向量偏移时可用。
 
 ### Rollover Values(check box and button) ：翻转值（复选框和按钮）
