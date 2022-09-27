@@ -2,7 +2,7 @@
 title: OpenRoads特征定义
 author: QinDong
 date: 2022-09-21 08:44:00 +0800
-categories: OpenRoads 土木特征
+categories: OpenRoads 土木规则
 tags: OpenRoads 特征
 excerpt: 
 ---
