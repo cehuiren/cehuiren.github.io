@@ -39,6 +39,9 @@ Prefix:/
 Show File Path Confirm Imput Box:unchecked
 Suffix:null
 ```
+### PasteImage使用方法
+- 拷贝或截图到剪贴板
+- VSC内粘贴快捷键：`Ctrl+Alt+V`
 
 ### VSC扩展
 - PasteImage
