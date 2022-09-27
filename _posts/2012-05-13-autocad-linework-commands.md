@@ -14,14 +14,16 @@ excerpt:
 
 This command lets you easily trim hatches, lines, polyline, arcs, circles, AEC polygons, mass element extrusions, spaces, or any block-based content (including detail components) made up of these types of linework or objects.
 The following prompts are displayed.
->Select linework to trim
->Specify linework, object or block to trim.
->Select the first point of the trim line, or, enter to pick on screen.
->Specify first point to establish the trim line.
->Select the second point to trim line
->Specify second point to establish the trim line.
->Select the side to trim
->Click the side of the trim line where the region you want to remove is located.
+```
+Select linework to trim
+Specify linework, object or block to trim.
+Select the first point of the trim line, or, enter to pick on screen.
+Specify first point to establish the trim line.
+Select the second point to trim line
+Specify second point to establish the trim line.
+Select the side to trim
+Click the side of the trim line where the region you want to remove is located.
+```
 
 ### 2、选定对象添加多义线边界
 命令：`LINEWORKSHRINKWRAP`
