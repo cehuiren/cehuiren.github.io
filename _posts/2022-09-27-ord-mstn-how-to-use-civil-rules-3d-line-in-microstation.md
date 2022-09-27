@@ -14,9 +14,13 @@ excerpt:
 
 ## 解决方案
 
-## 第一种方法
+### 第一种方法
 - 第一步，新建一个3D文件，文件名为TEST；
 - 第二步，在TEST文件里把Powercivil设计完成的3D平面线参考进来；
+
+>注：Inroads、GeoPak及Powercivil是OpenRoads的早期版本，OpenRoads的大部分功能与这些软件相同或相似。
+{: .prompt-info}
+
 - 第三步，在参考的对话框里，点击“合并到主文件里Merge into Master”；
 
 ![](/img/2022/2022-09-27-14-46-25.png)
