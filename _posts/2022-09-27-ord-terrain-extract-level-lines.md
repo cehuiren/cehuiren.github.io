@@ -3,7 +3,7 @@ title: OpenRoads从地形模型提取等高线
 author: QinDong
 date: 2022-09-27 08:25:00 +0800
 categories: OpenRoads 地形模型
-tags: 等高线
+tags: 等高线 key-in
 excerpt: 
 ---
 * content
@@ -27,7 +27,7 @@ ORD地形模型不能直接提取等高线，要提取等高线必须借助STM�
 
 - 新建并打开一空白ORD文件，种子必须使用3D（STM必须在3D中创建）；
 
-- 打开STM管理对话框：stm stmmanagerdlg dialog open；
+- 打开STM管理对话框：`stm stmmanagerdlg dialog open；`
 
 ![](/img/2022/2022-09-27-08-34-36.png)
 
