@@ -2,7 +2,7 @@
 title: AutoLISP绘三维对象实体代码
 author: QinDong
 date: 2012-09-26 10:38:00 +0800
-categories: 编程开发 AutoLisp
+categories: 编程开发 AutoLISP
 tags: 三维 实体
 excerpt: 
 ---

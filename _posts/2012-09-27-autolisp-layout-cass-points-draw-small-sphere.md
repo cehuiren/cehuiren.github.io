@@ -2,7 +2,7 @@
 title: AutoLISP源代码展CASS地形点生成三维小球体检查超欠挖
 author: QinDong
 date: 2012-09-27 13:58:00 +0800
-categories: 编程开发 AutoLisp
+categories: 编程开发 AutoLISP
 tags: CASS 地形 超欠挖
 excerpt: 
 ---
