@@ -25,7 +25,7 @@ title: '测量老覃 博客'                          # the main title
 
 tagline: www.cehui.ren   # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
+description:                         # used by seo meta and the atom feed
   Bentley MicroStation、OpenRoads Designer、AutoCAD Civil 3D 工程测量测绘应用
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
