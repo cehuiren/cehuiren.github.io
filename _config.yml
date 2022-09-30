@@ -21,7 +21,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: '测量老覃's blog'                          # the main title
+title: 测量老覃's blog                          # the main title
 
 tagline: www.cehui.ren   # it will display as the sub-title
 
