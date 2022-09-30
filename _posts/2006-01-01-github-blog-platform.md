@@ -43,6 +43,11 @@ Suffix:null
 - 拷贝或截图到剪贴板
 - VSC内粘贴快捷键：`Ctrl+Alt+V`
 
+### Giscus评论
+- [giscus设置](https://giscus.app/zh-CN)
+- [giscus安装](https://github.com/apps/giscus)
+- config.yml修改相应设置即可
+
 ### VSC扩展
 - PasteImage
 - Markdown Preview Enhanced
