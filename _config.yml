@@ -104,7 +104,7 @@ comments:
     category: 'Announcements'
     category_id: 'DIC_kwDOH_mPPs4CRtrh'
     mapping: 'title'    # optional, default to 'pathname'
-    input_position: 'bottom'  # optional, default to 'bottom'
+    input_position: 'top'  # optional, default to 'bottom'
     lang: 'zh-CN'           # optional, default to the value of `site.lang`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
