@@ -3,7 +3,7 @@ title: MicroStation求两个曲面间的交线
 author: 中国优先社区
 date: 2022-09-20 08:01:00 +0800
 categories: MicroStation 曲面
-tags: 曲面 交线 MicroStation
+tags: 曲面 交线
 excerpt: 
 ---
 * content
@@ -25,7 +25,7 @@ excerpt:
 
 其次想到的工具可能会是Surface下的Compute Surface Intersections
 
-![](/img/2022/%20.png)
+![](/img/2022/2022-09-20-08-15-36.png)
 
 该工具确实能求得一般两个面的交线，但对于该图形操作失败。后来发现是这两个面比较大，超过了500m的SWA（实体工作范围）的限制。用缩放工具将这两个面缩小100倍后就可以得到交线了。然后再将交线放大100倍，移动会原来的位置。这是一个变通的手段，最终是能达到目的但操作太繁琐。
 
