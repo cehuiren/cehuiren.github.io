@@ -1,4 +1,4 @@
-﻿# The Site Configuration
+# The Site Configuration
 
 # Import the theme
 theme: jekyll-theme-chirpy
@@ -21,12 +21,12 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 测量老覃's blog                          # the main title
+title: 测量老覃's Blog                          # the main title
 
 tagline: www.cehui.ren   # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+description:                         # used by seo meta and the atom feed
+  Bentley MicroStation、OpenRoads Designer、AutoCAD Civil 3D 工程测量测绘应用
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://www.cehui.ren'
@@ -89,7 +89,7 @@ avatar: /img/avatar.jpg
 toc: true
 
 comments:
-  active:         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: giscus        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -99,13 +99,13 @@ comments:
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo:             # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
-    mapping:          # optional, default to 'pathname'
-    input_position:   # optional, default to 'bottom'
-    lang:             # optional, default to the value of `site.lang`
+    repo: cehuiren/cehuiren.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOH_mPPg
+    category: Announcements
+    category_id: DIC_kwDOH_mPPs4CRtrh
+    mapping:     # optional, default to 'pathname'
+    input_position: top  # optional, default to 'bottom'
+    lang: zh-CN # optional, default to the value of `site.lang`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
