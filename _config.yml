@@ -103,7 +103,7 @@ comments:
     repo_id: R_kgDOH_mPPg
     category: Announcements
     category_id: DIC_kwDOH_mPPs4CRtrh
-    mapping: title         # optional, default to 'pathname'
+    mapping: pathname         # optional, default to 'pathname'
     input_position: top  # optional, default to 'bottom'
     lang: zh-CN            # optional, default to the value of `site.lang`
 
