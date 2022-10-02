@@ -9,7 +9,7 @@ excerpt:
 * content
 {:toc}
 
-```
+```vb
 ' INSTRUCTIONS:
 '
 '         ( For a working example, open the Debug window  )
