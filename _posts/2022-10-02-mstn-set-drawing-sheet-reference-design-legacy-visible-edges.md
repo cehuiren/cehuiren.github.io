@@ -1,7 +1,7 @@
 ---
 title: MicroStation CE版中使用Legacy可见边显示方式
 author: QinDong
-date: 2011-02-02 17:58:00 +0800
+date: 2022-10-02 17:58:00 +0800
 categories: MicroStation 基础
 tags: 横断面
 excerpt: 
