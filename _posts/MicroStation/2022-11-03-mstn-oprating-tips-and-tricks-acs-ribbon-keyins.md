@@ -89,9 +89,7 @@ Here's a fun little tip!Stick `XY=#,#,#` on either a function key or custom butt
 
 ### MicroStation激活深度与ACS平面捕捉
 
-利用激活深度与ACS平面捕捉锁可以捕捉指定高程的关键点，如在顶视图输入
-
-`AZ=10`，然后打开ACS平面捕捉锁，则以后绘图捕捉的点其高程为10。
+利用激活深度与ACS平面捕捉锁可以捕捉指定高程的关键点，如在顶视图输入 `AZ=10`，然后打开ACS平面捕捉锁，则以后绘图捕捉的点其高程为10。
 
 ### 匹配属性
 
