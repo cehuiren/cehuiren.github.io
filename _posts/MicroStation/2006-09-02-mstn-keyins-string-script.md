@@ -2,7 +2,7 @@
 layout: post
 title:  "How to string keyins together or create keyin scripts"
 date: 2006-09-02
-categories: MicroStation 键入
+categories: MicroStation 基础
 tags: MicroStation 脚本 key-in
 excerpt: MicroStation键入命令技巧及创建命令脚本文件。
 author: 测量老覃

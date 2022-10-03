@@ -2,7 +2,7 @@
 title: MicroStaton键入脚本key-in命令批量绘点、线、文本
 author: QinDong
 date: 2022-09-27 13:32:00 +0800
-categories: MicroStation 键入
+categories: MicroStation 基础
 tags: 脚本 key-in
 excerpt: 
 ---
