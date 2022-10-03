@@ -13,6 +13,6 @@ excerpt:
 
 ![](/img/2022/2022-10-02-17-09-39.png)
 
-在 CE 版本中，这个 **Visible Edges** 选项默认只有 **Dynamic** 和 **Cahced** 两种，如何能在 CONNECT 版本中出现 **Legacy** 选项呢？可通过设置配置变量`MS_REF_ENABLE_LEGACY_VISEDGES`为 1 来实现，如下图所示：
+在 **CE** 版本中，这个 **Visible Edges** 选项默认只有 **Dynamic** 和 **Cahced** 两种，如何能在 CONNECT 版本中出现 **Legacy** 选项呢？可通过设置配置变量`MS_REF_ENABLE_LEGACY_VISEDGES`为 1 来实现，如下图所示：
 
 ![](/img/2022/2022-10-02-17-09-47.png)

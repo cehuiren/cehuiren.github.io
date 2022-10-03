@@ -137,7 +137,8 @@ _如果提供了所有参数，则删除指定的注册表项设置。如果试�
 
 ### DeleteSetting 语句示例
 
-下列示例先使用 **SaveSetting** 语句，来建立 Windows 注册区（或 16 位 Windows 平台的 **ini** 文件）里 MyApp 应用程序的项目，然后使用 **DeleteSetting** 语句将之删除。因为没有指定 key 参数，整个区段都会被删除掉，包括区段名称及其所有的机码（key）。
+下列示例先使用 **SaveSetting** 语句，来建立 Windows 注册区（或 16 位 Windows 平台的 **ini** 文件）里 MyApp 应用程序的项目，然后使用 **DeleteSetting** 语句将之删除。因为没有指定 **key** 参数，整个区段都会被删除掉，包括区段名称及其所有的机码（key）。
+
 ```vb
 ' 在注册区中添加一些设置值。
 SaveSetting appname := "MyApp", section := "Startup", _
