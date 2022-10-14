@@ -13,10 +13,15 @@ excerpt:
 
 ### 创建地（质）层
 1、生成原始地形文件（2D种子），从ASCII文件生成地形模型；
+
 2、新建地质层文件（3D种子），参考原始地形文件，模型为Default-3D；
+
 ![](/img/2022/2022-10-14-10-04-19.png)
+
 #### 按厚度创建地层
+
 OpenRoads Modeling工作流、Model Detailing、3D Tools、Create Closed Mesh
+
 ![](/img/2022/2022-10-14-10-06-21.png)
 
 特征分别设置为：TC_Sandstone、TC_Limestone、TC_ROCK，生成方式选元素和厚度（如果有确度厚度范围线，可选元素、厚度及元素边界）
@@ -24,47 +29,62 @@ OpenRoads Modeling工作流、Model Detailing、3D Tools、Create Closed Mesh
 ![](/img/2022/2022-10-14-10-06-35.png)
 
 按提示选择原始地形模型（参考）、元素边界，确认各项参数后生成相应表土地模：
+
 ![](/img/2022/2022-10-14-10-17-45.png)
 
 细部放大后效果：
+
 ![](/img/2022/2022-10-14-10-18-22.png)
 
 重复此步生成土方地层和石方地层：
+
 ![](/img/2022/2022-10-14-10-20-27.png)
 
 生成的石方地层要超过开挖厚度（即全范围深度大于收方地形）：
+
 ![](/img/2022/2022-10-14-10-25-48.png)
 
 ![](/img/2022/2022-10-14-10-24-50.png)
 
-#### 按两期地模（原始地形+实测土石分界地形）
+#### 按两期地模（原始地形+实测土石分界地形）创建地层
+
 对于土方实测地形，按上步骤，在生成地层闭合网格时选元素与元素生成即可：
+
 ![](/img/2022/2022-10-14-10-27-43.png)
 
 需要注意的是，地层模型中的地形模型不参与体积计算，因此地层模型中各地模特征必须设定为Volume为None的特征（可将现有特征的体积选项设为无或新建一个自定义特征）。
 
 ### 分层方量计算
+
 #### 创建方量计算文件
+
 2D种子创建名为`方量计算.dgn`{: filepath} 的文件。
+
 #### 参考相关文件
+
 需要参考原始地形、收方地形、地层模型：
+
 ![](/img/2022/2022-10-14-10-38-10.png)
 
 #### 创建挖填方体
+
 OpenRoad Modeling工作流：
+
 Home\Model Analysis and Reporting\Civil Analysis\Create Cut Fill Volumes
 或
 Terrain\Analysis\Volumes\Create Cut Fill Volumes
+
 ![](/img/2022/2022-10-14-10-46-43.png)
 
 >注意：与直接计算挖填方不同的时，在有地层情况下，需要勾选“计算地层”选项。
-{: .promp-warning}
+{: promp-warning}
 
 #### 方量报表
 Home\Model Analysis and Reporting\Civil Analysis\Quantities Report By Named Boundary直接查询各地层挖填方报表：
 ![](/img/2022/2022-10-14-10-50-52.png)
 
 最准确的方式是打开相应图层显示各地层开挖体积并查询其体积属性：
+
 ![](/img/2022/2022-10-14-11-08-18.png)
 
 ![](/img/2022/2022-10-14-11-08-58.png)
