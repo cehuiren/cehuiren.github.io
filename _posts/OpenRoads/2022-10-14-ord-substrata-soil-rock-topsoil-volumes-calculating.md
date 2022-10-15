@@ -53,7 +53,7 @@ OpenRoads Modeling工作流、Model Detailing、3D Tools、Create Closed Mesh
 ![](/img/2022/2022-10-14-10-27-43.png)
 
 >需要注意的是，地层模型中的地形模型不参与体积计算，因此地层模型中各地模特征必须设定为Volume为None的特征（可将现有特征的体积选项设为无或新建一个自定义特征）。
-{: .prompt_warning}
+{: .prompt-warning}
 
 ## 分层方量计算
 
