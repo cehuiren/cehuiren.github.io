@@ -1,7 +1,7 @@
 ---
 title: MicroStation Annotation Scale的可用性
 author: 中国优先社区
-date: 2022-10-03 17:14:00 +0800
+date: 2022-10-15 13:48:00 +0800
 categories: MicroStation 基础
 tags: 注释 比例 标注 比例尺
 excerpt: 
