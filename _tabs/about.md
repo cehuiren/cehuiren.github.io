@@ -3,7 +3,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-本Blog在[Github Pages](https://pages.github.com/)上搭建，为老夫基于VS Code+Git建立的笔记工具的在线同步版，工作中在本地电脑上随时记录操作过程定期同步到github库即完成更新。也可在移动端浏览器中浏览。随着年龄的增长，记忆力在衰退，笔记乃无奈之举。
+本Blog在 [Github Pages](https://pages.github.com/) 基于 [Jekyll](https://jekyllrb.com/) 采用 [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) 主题搭建，为老夫基于VS Code+Git建立的笔记工具的在线同步版。本地记录定期同步到github库予以更新。也可在移动端浏览器中浏览。
 
 - 推荐使用微软的**Edge**浏览器浏览本Blog，针对此浏览器优化样式。部分国内浏览器上推荐使用非IE内核浏览。Edge可在Windows自带的应用商店内免费安装，是目前最好的浏览器之一。
 - 页面左下角有**淡、黑主题**色切换按钮，默认随系统主题。
@@ -14,7 +14,7 @@ order: 4
 
 爱好搞点小程序，水平仅限于AutoLisp、VB和VBA（AUtoCAD、Excel、MicroStation）。
 
-沉迷MicroStation、OpenRoads Designer、LumenRT等三维及实景建模。也曾使用Civil 3D多年。
+喜爱MicroStation、OpenRoads Designer、LumenRT等三维及实景建模。也曾使用Civil 3D多年。
 
 ### 地址
 - [www.cehui.ren](https://www.cehui.ren)
