@@ -10,18 +10,16 @@ order: 4
 - 在部分浏览器地址栏右侧有**网页应用**安装提示，可将本Blog以网页应用安装到桌面，方便在清爽的界面更快捷的进行访问。
 
 ### 现状
-一名坚定的测量工作者。高工，测绘师。
+工程测量工作者，高工，测绘师。
 
 爱好搞点小程序，水平仅限于AutoLisp、VB和VBA（AUtoCAD、Excel、MicroStation）。
 
 喜爱MicroStation、OpenRoads Designer、LumenRT等三维及实景建模。也曾使用Civil 3D多年。
 
-### 地址
+### 网址（以下地址均可访问本站）
 - [www.cehui.ren](https://www.cehui.ren)
 - [cehui.ren](https://www.cehui.ren)
 - [blog.cehui.ren](https://www.cehui.ren)
-
-原版仍可用github pages地址访问：[https://qin-dong.github.io](https://qin-dong.github.io)
 
 ### 联系方式
 - 电邮：qd.xyz@139.com
