@@ -2,7 +2,7 @@
 title: OpenRoads Designer纵断面几何基本知识
 author: QinDong
 date: 2022-10-15 10:51:00 +0800
-categories: MicroStation 路线几何
+categories: OpenRoads 路线几何
 tags: 纵断面 纵剖面 几何
 excerpt: 
 ---
