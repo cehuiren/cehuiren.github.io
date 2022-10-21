@@ -2,7 +2,7 @@
 title: OpenRoads Designer平面几何路线-桩号、偏移绘图
 author: QinDong
 date: 2022-10-19 13:41:00 +0800
-categories: MicroStation 平面几何
+categories: OpenRoads 路线几何
 tags: 几何 平面几何 路线 桩号
 excerpt: 
 ---
