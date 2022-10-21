@@ -2,7 +2,7 @@
 layout: post
 title:  "OpenRoads Designer平面几何路线断链（长、短链）设置"
 date: 2022-09-03
-categories: OpenRoads 平面几何
+categories: OpenRoads 路线几何
 tags: OpenRoads 断链 长链 短链 平面几何 路线
 excerpt: 用openroads做道路建模的时候，遇到有短链和长链的时候，对于断链，可以在“几何图形”选项卡中的“修改”中通过设置断链来实现。
 author: 测量老覃

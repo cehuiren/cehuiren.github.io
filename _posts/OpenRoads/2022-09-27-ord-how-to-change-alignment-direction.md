@@ -2,7 +2,7 @@
 title: OpenRoads如何修改平面线的方向
 author: 网格转载
 date: 2022-09-27 14:50:00 +0800
-categories: OpenRoads 平面几何
+categories: OpenRoads 路线几何
 tags: 方向 平面线
 excerpt: 
 ---
