@@ -2,7 +2,7 @@
 title: OpenRoads Designer自定义特征
 author: QinDong
 date: 2022-10-15 10:51:00 +0800
-categories: OpenRoads 土木特征
+categories: OpenRoads 土木规则
 tags: 纵断面 纵剖面 几何
 excerpt: 
 ---
