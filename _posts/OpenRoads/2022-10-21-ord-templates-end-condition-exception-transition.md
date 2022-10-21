@@ -2,7 +2,7 @@
 title: OpenRoads Designer相邻道路模板渐变过渡（末端条件异常）
 author: QinDong
 date: 2022-10-21 16:10:00 +0800
-categories: OpenRoads 断面模型
+categories: OpenRoads 断面模板
 tags: 模板 过渡 渐变 末端条件异常
 excerpt: 
 ---
