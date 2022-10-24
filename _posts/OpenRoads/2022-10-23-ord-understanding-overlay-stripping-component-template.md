@@ -1,9 +1,9 @@
 ---
 title: OpenRoads Designer Understanding Overlay(Stripping) Components
 author: QinDong
-date: 2022-10-21 15:30:00 +0800
+date: 2022-10-23 10:58:00 +0800
 categories: OpenRoads 断面模板
-tags: 模板 表土 en
+tags: 模板 表土 en 组件
 excerpt: 
 ---
 * content
