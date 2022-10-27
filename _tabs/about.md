@@ -16,9 +16,9 @@ order: 4
 
 喜爱MicroStation、OpenRoads Designer、LumenRT等三维及实景建模。也曾使用Civil 3D多年。
 
-![Twitter Follow](https://img.shields.io/twitter/follow/qd_xyz?style=social)
-![Github Follow](https://img.shields.io/github/followers/qin-dong?style=social)
-[![Gmail Badge](https://img.shields.io/badge/-qind@139.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qind@139.com)](mailto:qind@139.com)
+![Twitter Follow](https://img.shields.io/twitter/follow/qd_xyz?style=social){: .normal }
+![Github Follow](https://img.shields.io/github/followers/qin-dong?style=social){: .normal }
+[![Gmail Badge](https://img.shields.io/badge/-qind@139.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qind@139.com)](mailto:qind@139.com){: .normal }
 
 ### 网址
 - [www.cehui.ren](https://www.cehui.ren)
