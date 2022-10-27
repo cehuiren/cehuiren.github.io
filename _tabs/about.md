@@ -9,23 +9,24 @@ order: 4
 - 页面左下角有**淡、黑主题**色切换按钮，默认随系统主题。
 - 在部分浏览器地址栏右侧有**网页应用**安装提示，可将本Blog以网页应用安装到桌面，方便在清爽的界面更快捷的进行访问。
 
-### 博主
+### 现状
 工程测量工作者，高工，测绘师。
 
 爱好搞点小程序，水平仅限于AutoLisp、VB和VBA（AUtoCAD、Excel、MicroStation）。
 
 喜爱MicroStation、OpenRoads Designer、LumenRT等三维及实景建模。也曾使用Civil 3D多年。
 
-[![Gmail Badge](https://img.shields.io/badge/-qind@139.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qind@139.com)](mailto:qind@139.com){: .normal }
-![Twitter Follow](https://img.shields.io/twitter/follow/qd_xyz?style=social){: .normal }
-![Github Follow](https://img.shields.io/github/followers/qin-dong?style=social){: .normal }
-
-### 网址
+### 网址（以下地址均可访问本站）
 - [www.cehui.ren](https://www.cehui.ren)
 - [cehui.ren](https://www.cehui.ren)
 - [blog.cehui.ren](https://www.cehui.ren)
 
-### 许可
+### 联系方式
+- 电邮：qd.xyz@139.com
+- 微信：qd_xyz
+- 抖音：QinDong
+
+### 许可说明
 1. 所有原创文章均以 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可证授权，您可以：
     - 以任何媒介与形式复制、重新分发文章
     - 出于任何目的（甚至是商业目的）地重新混合、转换文章内容
