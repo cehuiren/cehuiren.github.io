@@ -53,7 +53,7 @@ excerpt:
 ![](/img/2022/2022-10-24-09-51-28.png)
 
 ### Slope Correction Milling + Slope Correction Leveling Binder
-- Requires _Two_ Components
+- Requires _TWO_ Components
 - Example (2" Depth BELOW PROFILE + Leveling Binder to Correct Cross Slope)
 - Top of Leveling Component uses _Active_ Profile
 ![](/img/2022/2022-10-24-09-57-58.png)
