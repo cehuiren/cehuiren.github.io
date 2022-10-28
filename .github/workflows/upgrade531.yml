@@ -1,1 +1,2 @@
-bundle update jekyll-theme-chirpy
+run:
+   bundle update jekyll-theme-chirpy
