@@ -13,7 +13,38 @@ QinDong:
   twitter: qd_xyz
   url: https://www.cehui.ren
 
+网络文摘:
+  name: 网络转载
+  twitter: qd_xyz
+  url: https://www.cehui.ren
+
+网络:
+  name: 网络转载
+  twitter: qd_xyz
+  url: https://www.cehui.ren
+
+转载:
+  name: 网络转载
+  twitter: qd_xyz
+  url: https://www.cehui.ren
+
+
 中国优先社区:
+  name: Bentley中国社区
+  twitter: qd_xyz
+  url: https://communities.bentley.com/communities/other_communities/chinafirst/
+
+中国社区:
+  name: Bentley中国社区
+  twitter: qd_xyz
+  url: https://communities.bentley.com/communities/other_communities/chinafirst/
+
+优先社区:
+  name: Bentley中国社区
+  twitter: qd_xyz
+  url: https://communities.bentley.com/communities/other_communities/chinafirst/
+
+bentley:
   name: Bentley中国社区
   twitter: qd_xyz
   url: https://communities.bentley.com/communities/other_communities/chinafirst/
