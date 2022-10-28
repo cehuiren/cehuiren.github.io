@@ -3,7 +3,7 @@ title: OpenRoads普通三维线段转化为Civil几何路线
 author: QinDong
 date: 2022-09-27 21:03:00 +0800
 categories: OpenRoads 路线几何
-tags: 平面几何 竖面几何 路线 几何
+tags: 平面几何 纵断面 路线 几何
 excerpt: 
 ---
 * content

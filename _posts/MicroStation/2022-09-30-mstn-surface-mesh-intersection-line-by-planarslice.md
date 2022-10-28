@@ -3,7 +3,7 @@ title: MicroStation曲面、网格间求用于裁剪的交线
 author: QinDong
 date: 2022-09-30 09:28:00 +0800
 categories: MicroStation 曲面
-tags: 曲面 网络 交线 裁剪
+tags: 曲面 网格 交线 裁剪
 excerpt: 
 ---
 * content

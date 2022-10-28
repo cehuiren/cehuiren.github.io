@@ -3,7 +3,7 @@ title: MicroStation里如何使用OpenRoads带有土木规则的3D平面线
 author: 网格转载
 date: 2022-09-27 15:29:00 +0800
 categories: OpenRoads 土木规则
-tags: 平面几何 立面几何 规则 OpenRoads MicroStation
+tags: 平面几何 纵断面 规则 OpenRoads MicroStation
 excerpt: 
 ---
 * content

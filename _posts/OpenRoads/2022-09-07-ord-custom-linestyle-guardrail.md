@@ -3,7 +3,7 @@ layout: post
 title:  "OpenRoads Designer练练自定义线型创建护栏"
 date: 2022-09-07
 categories: OpenRoads 道路廊道
-tags: OpenRoads 线型 标识标线
+tags: OpenRoads 线型 标识 标线
 excerpt: 传统护栏单元往往需要一个接一个手动定位摆放，而自定义线型即可一步成型，快速创建道路护栏，为设计人员带来极大的便利，极高地提升了出图效率。
 author: 网络转载
 ---

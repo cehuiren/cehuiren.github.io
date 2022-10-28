@@ -3,7 +3,7 @@ title: OpenRoads Designer导入文本格式水平路线、路线纵断面
 author: QinDong
 date: 2022-10-28 08:35:00 +0800
 categories: OpenRoads 路线几何
-tags: 水平路线 纵断面 格式 导入 连接公路 文本文件
+tags: 水平路线 纵断面 格式 导入 文本文件
 excerpt: 
 ---
 * content

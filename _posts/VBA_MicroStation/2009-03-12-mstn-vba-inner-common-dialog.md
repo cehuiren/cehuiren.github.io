@@ -3,7 +3,7 @@ title: MicroStation VBA调用内置文件对话框
 author: 中国优先社区
 date: 2009-03-12 10:37:00 +0800
 categories: 编程开发 VBA-MicroStation
-tags: 方件 对话框 MicroStation VBA 通用代码 代码
+tags: 文件 对话框 MicroStation VBA 通用代码 代码
 excerpt: 
 ---
 * content

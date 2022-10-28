@@ -3,7 +3,7 @@ title: MicroStation三维求交
 author: 中国优先社区
 date: 2022-09-30 19:55:00 +0800
 categories: MicroStation 曲面
-tags: 曲面 网络 实体 交线
+tags: 曲面 网格 实体 交线
 excerpt: 
 ---
 * content
