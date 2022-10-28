@@ -27,4 +27,4 @@ excerpt:
 
 正确的方法是选中内圈，选择外圈为父组件，然后void type 选项就出来了。
 
-参见：[原文](https://communities.bentley.com/communities/other_communities/chinafirst/f/openroads-powercivil-bridgemaster/182827/ord)
+参见 [原文](https://communities.bentley.com/communities/other_communities/chinafirst/f/openroads-powercivil-bridgemaster/182827/ord)
