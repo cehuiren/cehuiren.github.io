@@ -246,4 +246,4 @@ End Function
 ```
 {: .nolineno}
 
-[](/assets/docs/mstn_vba_chn.pdf)
+[PDF](/assets/docs/mstn_vba_chn.pdf)
