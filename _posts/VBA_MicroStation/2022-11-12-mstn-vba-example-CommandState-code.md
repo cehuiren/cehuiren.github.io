@@ -245,3 +245,5 @@ End Function
 '
 ```
 {: .nolineno}
+
+[](/assets/docs/mstn_vba_chn.pdf)
