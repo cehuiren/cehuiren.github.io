@@ -37,3 +37,6 @@ In the image below we have a long roadway segment. There is a 25′ wide strip a
 - The region is now filled.
 
 ![](/img/2022/2022-11-15-16-12-25.png)
+
+>在CE版本中，泛填狭长区域并不要求将对象缩放到可视区域，可在放大后点击封闭区域内部即可完成泛填操作。
+{: .prompt-info}
