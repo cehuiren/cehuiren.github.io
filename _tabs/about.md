@@ -3,8 +3,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-本Blog在 [Github Pages](https://pages.github.com/) 基于 [Jekyll](https://jekyllrb.com/) 采用 [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) 主题搭建。
-
 - 推荐使用微软的**Edge**浏览器浏览本Blog，针对此浏览器优化样式。部分国内浏览器上推荐使用非IE内核浏览。Edge可在Windows自带的应用商店内免费安装，是目前最好的浏览器之一。
 - 页面左下角有**淡、黑主题**色切换按钮，默认随系统主题。
 - 在部分浏览器地址栏右侧有**网页应用**安装提示，可将本Blog以网页应用安装到桌面，方便在清爽的界面更快捷的进行访问。
@@ -22,8 +20,8 @@ order: 4
 - [blog.cehui.ren](https://www.cehui.ren)
 
 ### 联系方式
-- 电邮：qin-dong@outlook.com
-- 微信：qd_xyz
+- 电邮：qindxyz@139.com  qin-dong@outlook.com
+- 微信：qindxyz
 - 抖音：QinDong
 
 ### 许可说明
