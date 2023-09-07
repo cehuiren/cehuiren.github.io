@@ -12,8 +12,6 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-#jobs:
-#  continuous-delivery:
 permissions:
   contents: read
   pages: write
@@ -32,7 +30,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-#          fetch-depth: 0  # for posts's lastmod
           fetch-depth: 0
           # submodules: true
           # If using the 'assets' git submodule from Chirpy Starter, uncomment above
@@ -40,7 +37,7 @@ jobs:
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v1
+        uses: actions/configure-pages@v3
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -48,8 +45,6 @@ jobs:
           ruby-version: 3
           bundler-cache: true
 
-#      - name: Deploy
-#        run: bash tools/deploy.sh
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:
@@ -58,6 +53,7 @@ jobs:
       - name: Test site
         run: |
           bundle exec htmlproofer _site --disable-external --check-html --allow_hash_href
+          
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1
         with:
@@ -72,4 +68,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v2
