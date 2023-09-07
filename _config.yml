@@ -32,19 +32,19 @@ github:
   username: cehuiren            # change to your github username
 
 twitter:
-  username: qd_xyz            # change to your twitter username
+  username: qindxyz            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: QinDong
-  email: qd.xyz@139.com             # change to your email address
+  email: qindxyz@139.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/qd_xyz      # change to your twitter homepage
+    - https://twitter.com/qindxyz      # change to your twitter homepage
     - https://github.com/qin-dong       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.weibo.com/qindxyz
+    - https://www.weibo.com/qindxyz
     # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
